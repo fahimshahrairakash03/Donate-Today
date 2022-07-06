@@ -83,3 +83,65 @@ hr {
   width: 50%;
   margin-bottom: 50px;
 }
+.donate-plan {
+  width: 100%;
+  height: 100vh;
+  padding: 50px;
+}
+.content1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.content1 h1 {
+  font-size: 45px;
+  margin-bottom: 20px;
+}
+.content1 p {
+  font-size: 18px;
+  color: #707070;
+}
+.planbox {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+}
+.pbox {
+  width: 360px;
+  height: 352px;
+  padding: 20px 20px;
+  background: rgba(79, 157, 166, 0.1);
+  margin-right: 20px;
+}
+.pbox img {
+  margin-bottom: 50px;
+}
+.pbox h3 {
+  margin-bottom: 20px;
+}
+.pbox p {
+  font-size: 16px;
+}
+#pbox1 {
+  background: rgba(255, 89, 89, 0.1);
+}
+#pbox2 {
+  background: rgba(252, 120, 45, 0.1);
+}
+footer {
+  background-color: black;
+}
+footer h1 {
+  font-family: "The Nautigal", cursive;
+  color: tomato;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
+footer p {
+  color: white;
+  font-size: 16px;
+  text-align: center;
+  padding: 20px;
+}
